@@ -1,0 +1,10 @@
+# DDL
+CREATE DATABASE fault_readings
+
+# DML
+# CONTEXT-DATABASE: readings
+
+# fault devices - R518
+
+gw2024/iec101,type=BTC ASDU_CA=41816,IOA=4,value="0(OFF)" 1591779004000000000
+gw2024/iec101,type=BTC ASDU_CA=41816,IOA=2,value="0(OFF)" 1591779064000000000
