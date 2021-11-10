@@ -20,4 +20,4 @@ Each test case `seed.txt` file contains the asset readings required to trigger a
 
 Author Darren Leniston <darren.leniston@waltoninstitute.ie>
 
-This research is supported by European Union’s Horizon 2020 research and innovation programme under grant agreement No 883710, project edgeFLEX (Providing fexibility to the grid by enabling VPPs to oer both fast and slow dynamics control services).
+This research is supported by European Union’s Horizon 2020 research and innovation programme under grant agreement No 883710, project edgeFLEX (Providing fexibility to the grid by enabling VPPs to offer both fast and slow dynamics control services).
